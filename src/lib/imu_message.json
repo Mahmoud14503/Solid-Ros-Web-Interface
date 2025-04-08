@@ -1,0 +1,28 @@
+{
+  "header": {
+    "stamp": {
+      "sec": 14,
+      "nanosec": 190000000
+    },
+    "frame_id": "imu_link"
+  },
+  "orientation": {
+    "x": 6.897414200885722e-7,
+    "y": -1.3333067764611425e-7,
+    "z": -0.9971443165805982,
+    "w": 0.0755196127540265
+  },
+  "orientation_covariance": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "angular_velocity": {
+    "x": -0.000032944195429043054,
+    "y": -0.0000013989009713905708,
+    "z": 0.0015837501602761557
+  },
+  "angular_velocity_covariance": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "linear_acceleration": { // the important part
+    "x": -0.14919046422855697,
+    "y": 0.23393342131423267,
+    "z": 9.79998114176574
+  },
+  "linear_acceleration_covariance": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+}
